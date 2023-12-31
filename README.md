@@ -10,29 +10,26 @@
 
 <!-- PROJECT HEADING -->
 
-# Project Template Repository
+# Personal Portfolio Website
 
-This repository is used as a base of laying our all repositories used by [@smcnab1](https://github.com/smcnab1).
+This repository houses my Personal Portfolio Website written with HTML, CSS & JS. Providing a stylish and responsive site showcasing my work.
 
-&nbsp;
-<div align="center">
+<p align="center">
   <kbd>
-    <img src="https://static.wikia.nocookie.net/vs-requiem/images/2/29/Insert-image-here.jpg/revision/latest?cb=20191224015218" />
-    <img src="https://static.wikia.nocookie.net/vs-requiem/images/2/29/Insert-image-here.jpg/revision/latest?cb=20191224015218" />
+    <img width="45%" src="https://i.imgur.com/v8oCWVf.png" alt="Image 1">
+    <img width="45%" src="https://i.imgur.com/qGZLAxb.png" alt="Image 2">
   </kbd>
-</div>
+</p>
+
+
 
 ## Description
 
-This repository is used as a base of laying our all repositories used by [@smcnab1](https://github.com/smcnab1). Containing all key documentation and files required for the basis of a repository.
+This repository houses my Personal Portfolio Website written with HTML, CSS & JS. Providing a stylish and responsive site showcasing my work.
 
 ### Features
 
-- [README](README.md)
-- [CHANGELOG](CHANGELOG.md)
-- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
-- [LICENSE](LICENSE.md)
-- [SECURITY](SECURITY.md)
+- ...
 
 ### Repository Tree
 <details>
@@ -40,20 +37,71 @@ This repository is used as a base of laying our all repositories used by [@smcna
 
 _Last Updated 31 Dec 23_
 ```
-📦 project-template-repo/
-├── CHANGELOG.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE.md
-├── README.md
-└── SECURITY.md
+📦 personal-portfolio-website
+├─ .github
+│  ├─ CODEOWNERS
+│  ├─ CODE_OF_CONDUCT.md
+│  ├─ CONTRIBUTING.md
+│  ├─ FUNDING.yml
+│  ├─ ISSUE_TEMPLATE
+│  │  ├─ 1-bug-report.md
+│  │  ├─ 2-docs-bug.md
+│  │  ├─ 3-feature-request.md
+│  │  ├─ 4-enhancement-request.md
+│  │  ├─ 5-security-report.md
+│  │  ├─ 6-question-support.md
+│  │  └─ config.yml
+│  ├─ PULL_REQUEST_TEMPLATE.md
+│  ├─ SECURITY.md
+│  ├─ SUPPORT.md
+│  └─ config.yml
+├─ CHANGELOG.md
+├─ LICENSE.md
+├─ README.md
+├─ assets
+│  ├─ css
+│  │  └─ style.css
+│  ├─ images
+│  │  ├─ avatar-1.png
+│  │  ├─ avatar-2.png
+│  │  ├─ avatar-3.png
+│  │  ├─ avatar-4.png
+│  │  ├─ favicon.ico
+│  │  ├─ icon-app.svg
+│  │  ├─ icon-coach.svg
+│  │  ├─ icon-design.svg
+│  │  ├─ icon-dev.svg
+│  │  ├─ icon-lecture.svg
+│  │  ├─ icon-para.svg
+│  │  ├─ icon-photo.svg
+│  │  ├─ icon-quote.svg
+│  │  ├─ logo-1-color.png
+│  │  ├─ logo.svg
+│  │  ├─ my-avatar.png
+│  │  ├─ project-1.jpg
+│  │  ├─ project-2.png
+│  │  ├─ project-3.jpg
+│  │  ├─ project-4.png
+│  │  ├─ project-5.png
+│  │  ├─ project-6.png
+│  │  ├─ project-7.png
+│  │  ├─ project-8.jpg
+│  │  ├─ project-9.png
+│  │  ├─ project-magna.png
+│  │  ├─ project-placeholder.png
+│  │  └─ project-question.png
+│  └─ js
+│     └─ script.js
+└─ index.html
 ```
   
 </details>
 
 ### Built with
 
-- Markdown
+- HTML
+- CSS
+- JS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,15 +109,7 @@ _Last Updated 31 Dec 23_
 
 ### Prerequisites
 
-Accessible using browser or GitHub mobile application.
-
-### Install
-
-Click on [this link](https://github.com/new?template_name=project-template-repo&template_owner=smcnab1) to generate new repository from template.
-
-### Usage
-
-Used by anyone to quickly generate repository, following optimal layout.
+Accessible using browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,16 +152,16 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/project-template-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/smcnab1/project-template-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/smcnab1/project-template-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/smcnab1/project-template-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/smcnab1/project-template-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/smcnab1/project-template-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/smcnab1/project-template-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/smcnab1/project-template-repo/issues
-[license-shield]: https://img.shields.io/github/license/smcnab1/project-template-repo.svg?style=for-the-badge
-[license-url]: https://github.com/smcnab1/project-template-repo/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/personal-portfolio-website.svg?style=for-the-badge
+[contributors-url]: https://github.com/smcnab1/personal-portfolio-website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/smcnab1/personal-portfolio-website.svg?style=for-the-badge
+[forks-url]: https://github.com/smcnab1/personal-portfolio-website/network/members
+[stars-shield]: https://img.shields.io/github/stars/smcnab1/personal-portfolio-website.svg?style=for-the-badge
+[stars-url]: https://github.com/smcnab1/personal-portfolio-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/smcnab1/personal-portfolio-website.svg?style=for-the-badge
+[issues-url]: https://github.com/smcnab1/personal-portfolio-website/issues
+[license-shield]: https://img.shields.io/github/license/smcnab1/personal-portfolio-website.svg?style=for-the-badge
+[license-url]: https://github.com/smcnab1/personal-portfolio-website/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sammcnab/
 [product-screenshot]: images/screenshot.png
